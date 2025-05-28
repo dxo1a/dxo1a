@@ -5,7 +5,7 @@ Hi there! 👋
 I'm Igor, a passionate Back-End Developer specializing in **Golang** and **.NET**.  
 I enjoy building robust and efficient server-side applications, designing scalable APIs, and solving complex problems.  
 
-Back-end development is my craft, and I'm constantly learning new technologies and patterns to refine my skills and deliver high-quality solutions.  
+I'm constantly learning new technologies and patterns to refine my skills and deliver high-quality solutions.  
 
 Feel free to explore my repositories and reach out if you'd like to collaborate!
 
@@ -16,7 +16,7 @@ Feel free to explore my repositories and reach out if you'd like to collaborate!
 Я Игорь - back-end разработчик, специализирующийся на Golang и .NET.
 Мне нравится создавать надежные и эффективные приложения, проектировать масштабируемые API и решать сложные проблемы.
 
-Back-end разработка - это мое ремесло. Я постоянно изучаю новые технологии и паттерны, чтобы совершенствовать свои навыки и предоставлять высококачественные решения.
+Я постоянно изучаю новые технологии и паттерны, чтобы совершенствовать свои навыки и предоставлять высококачественные решения.
 
 Не стесняйтесь изучать мои репозитории и обращайтесь ко мне, если вы хотите сотрудничать!
 
