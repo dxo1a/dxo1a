@@ -31,7 +31,7 @@ Feel free to explore my repositories and reach out if you'd like to collaborate!
 
 ## Top used langs | Топ используемых языков ##
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dxo1a&layout=compact&hide=shaderlab,hlsl,mathematica,html,css,typescript,dockerfile)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dxo1a&layout=compact&hide=shaderlab,hlsl,mathematica,html,css,typescript,dockerfile,scss,javascript)
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=dxo1a&color=green) 
