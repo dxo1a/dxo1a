@@ -11,12 +11,12 @@ Feel free to explore my repositories and reach out if you'd like to collaborate!
 
 ## Tech & Tools ##
 
-![Manjaro](https://img.shields.io/badge/OS-Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white)![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Manjaro](https://img.shields.io/badge/OS-Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white)![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ![VS_Code](https://img.shields.io/badge/Editor-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
 ![CSHARP](https://skillicons.dev/icons?theme=dark&i=cs,dotnet,mysql)\
-![GO](https://skillicons.dev/icons?theme=dark&i=go,postgres,docker,bots)
+![GO](https://skillicons.dev/icons?theme=dark&i=go,docker,postgres,redis,bots)
 
 ## Top used langs ##
 
